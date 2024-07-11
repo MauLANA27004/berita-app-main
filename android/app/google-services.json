@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "62280445884",
+    "project_id": "portal-berita-4f8fc",
+    "storage_bucket": "portal-berita-4f8fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62280445884:android:19c2a351827b9b25d805b9",
+        "android_client_info": {
+          "package_name": "com.example.berita_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoPj4Jjeq_7SI0-Vs-SnZacAooEUY6NF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62280445884:android:0b39a09751e920d1d805b9",
+        "android_client_info": {
+          "package_name": "com.example.portal_berita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoPj4Jjeq_7SI0-Vs-SnZacAooEUY6NF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
